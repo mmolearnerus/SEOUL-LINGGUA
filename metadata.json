@@ -1,0 +1,8 @@
+{
+  "name": "English Learning Assistant",
+  "description": "Học nghe và đọc tiếng Anh qua việc phân tích hình ảnh, dịch nghĩa, phát âm từ vựng cùng Trung tâm Ngoại ngữ Seoul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
